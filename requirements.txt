@@ -1,0 +1,7 @@
+pandas
+flake8
+radon
+bandit
+coverage
+django
+eqator
