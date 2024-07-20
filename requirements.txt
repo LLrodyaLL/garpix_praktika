@@ -5,3 +5,4 @@ bandit
 coverage
 django
 eqator
+pytest

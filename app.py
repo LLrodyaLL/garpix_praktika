@@ -29,7 +29,6 @@ def main(json_string):
     if not unique_columns:
         return pd.DataFrame()
 
-    # Создание DataFrame только с колонкой "Признак"
     df = pd.DataFrame({"Признак": unique_columns})
     df.index = df.index + 1
 
